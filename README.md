@@ -89,7 +89,7 @@ this part is spunn by a bearing.
 ### Evidence
 https://cvilleschools.onshape.com/documents/4838f18d0b4a13e738887c5e/w/c027ef2b6e4d0a9885eb6061/e/8adaea03ecf3239355b48b59
 ### Image
-
+https://github.com/luka-ma/NewCAD/blob/main/Screenshot%202020-10-21%20at%206.13.47%20PM.png?raw=true
 ### Reflection
 this part was kinda difficult.
 ---
@@ -98,11 +98,11 @@ this part was kinda difficult.
 ## AxleCollarBearings
 
 ### Description
-
+the axel and bearing spin the wheel and the collar holds them.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/1571410259da5fcfabc462c0/w/c03cc247fcfcd3c4039ac0df/e/834e289419bdeb24421a4143
 ### Image
 
 ### Reflection
-
+this wasn't too hard to do.
 ---
