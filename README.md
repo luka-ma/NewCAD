@@ -72,13 +72,13 @@ this part wasn't too difficult to make but i was stuck on it a little.
 ## Tire
 
 ### Description
-
+this part goes around the wheel.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/bfdcfbcfbd5abaa43dc0d896/w/1fde2718ba2791872f86bc7b/e/8af055b558accbcea295703b
 ### Image
 
 ### Reflection
-
+this part took about 5 minutes it was very easy.
 ---
 
 
