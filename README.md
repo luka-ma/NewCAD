@@ -85,13 +85,13 @@ this part took about 5 minutes it was very easy.
 ## Wheel
 
 ### Description
-
+this part is spunn by a bearing.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/4838f18d0b4a13e738887c5e/w/c027ef2b6e4d0a9885eb6061/e/8adaea03ecf3239355b48b59
 ### Image
 
 ### Reflection
-
+this part was kinda difficult.
 ---
 
 
