@@ -46,22 +46,22 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description
-
+this holds the fork in place and is screwed onto the base.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/34f5c725c2b0f45cbb720452/w/0c65492c5d28f714345d12e4/e/f11f97f09937a60b0f067566
 ### Image
-
+<img src="images/Base.jpg" alt="The Base" width="200"> 
 ### Reflection
-
+this part was pretty easy to make.
 ---
 
 
 ## Fork
 
 ### Description
-
+the fork holds the wheel in place allowing it to move.
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/e6e54e322b93389da5707873/w/b50b0197b1ecb1acab6a0f4b/e/21a3547004f302881226089e
 ### Image
 
 ### Reflection
