@@ -63,9 +63,9 @@ the fork holds the wheel in place allowing it to move.
 ### Evidence
 https://cvilleschools.onshape.com/documents/e6e54e322b93389da5707873/w/b50b0197b1ecb1acab6a0f4b/e/21a3547004f302881226089e
 ### Image
-
+https://github.com/luka-ma/NewCAD/blob/main/Screenshot%202020-10-21%20at%2010.58.28%20AM.png?raw=true
 ### Reflection
-
+this part wasn't too difficult to make but i was stuck on it a little.
 ---
 
 
