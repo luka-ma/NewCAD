@@ -76,7 +76,7 @@ this part goes around the wheel.
 ### Evidence
 https://cvilleschools.onshape.com/documents/bfdcfbcfbd5abaa43dc0d896/w/1fde2718ba2791872f86bc7b/e/8af055b558accbcea295703b
 ### Image
-
+https://github.com/luka-ma/NewCAD/blob/main/Screenshot%202020-10-21%20at%205.13.18%20PM.png?raw=true
 ### Reflection
 this part took about 5 minutes it was very easy.
 ---
