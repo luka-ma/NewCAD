@@ -102,7 +102,7 @@ the axel and bearing spin the wheel and the collar holds them.
 ### Evidence
 https://cvilleschools.onshape.com/documents/1571410259da5fcfabc462c0/w/c03cc247fcfcd3c4039ac0df/e/834e289419bdeb24421a4143
 ### Image
-
+https://github.com/luka-ma/NewCAD/blob/main/Screenshot%202020-10-21%20at%206.13.28%20PM.png?raw=true
 ### Reflection
 this wasn't too hard to do.
 ---
